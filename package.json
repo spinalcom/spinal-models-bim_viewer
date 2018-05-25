@@ -1,0 +1,21 @@
+{
+  "name": "SpinalModelsBIMViewer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "license": "SpinalCore",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spinalcom/spinal-models-bim_viewer.git"
+  },
+  "keywords": [],
+  "author": "Hossam Basudan <h.basudan@spinalcom.com>",
+  "bugs": {
+    "url": "https://github.com/spinalcom/spinal-models-bim_viewer/issues"
+  },
+  "homepage": "https://github.com/spinalcom/spinal-models-bim_viewer#readme"
+}
