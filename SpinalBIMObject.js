@@ -3,7 +3,7 @@ const globalType = typeof window === "undefined" ? global : window;
 
 
 class SpinalBIMObject extends globalType.Model {
-  constructor(_id, _name, _display, _color, _group, name = "SpinalBIMObject") {
+  constructor(_id, _name, _group ,_display, _color, name = "SpinalBIMObject") {
     super();
     if (FileSystem._sig_server) {
       this.add_attr({
